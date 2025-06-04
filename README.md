@@ -13,31 +13,31 @@
 ## 1. Overview:  
 This analysis focuses on understanding the agricultural patterns, challenges, and opportunities within the Iseyin-Ipapo farm settlement in Oyo State, Nigeria. The aim is to support strategic decision-making, inform digital product development for farmers, and enable better resource allocation.
 ## 2. Objective:  
-•	To identify the demographic structure and farming scales within the settlement.
-•	To determine key crop cultivation trends by region and farmer scale.
-•	To uncover infrastructural and service gaps affecting productivity.
-•	To recommend tailored interventions, tech solutions, and policy actions.
+•	To identify the demographic structure and farming scales within the settlement.  
+•	To determine key crop cultivation trends by region and farmer scale.  
+•	To uncover infrastructural and service gaps affecting productivity.  
+•	To recommend tailored interventions, tech solutions, and policy actions.  
 ## 3. Data Source:  
-*The data was collected via a hybrid questionnaire method:*  
+### The data was collected via a hybrid questionnaire method:
 •	A structured survey was designed and printed in PDF format for physical distribution.  
 •	Additionally, the questionnaire was digitized using Google Forms and shared with farmers across regions.  
 •	The responses were consolidated and cleaned for analysis, It was typed manually into excel.  
 ## 4. Dataset Description:  
-*The dataset contains four key components:*  
+### The dataset contains four key components:  
 **•	Farmers:**  
-        Contains demographic information such as scale of operation (small, medium, large), location, and access to technology.
+        Contains demographic information such as scale of operation (small, medium, large), location, and access to technology.  
 **•	Growing Crops:**  
-        Captures which crops are cultivated by farmers, including maize, cassava, tomatoes, and yam.
+        Captures which crops are cultivated by farmers, including maize, cassava, tomatoes, and yam.  
 **•	Lack of Access:**  
-        Highlights infrastructural and service limitations (e.g., electricity, cold rooms, dryers, market access).
+        Highlights infrastructural and service limitations (e.g., electricity, cold rooms, dryers, market access).  
 **•	Useful App Features:**  
-        Records farmers' preferences for app functionalities such as USSD access, transport coordination, and live availability updates.
+        Records farmers' preferences for app functionalities such as USSD access, transport coordination, and live availability updates.  
 ## 5. Dashboard Design:  
 **A dynamic dashboard was created with segmentation filters for:**  
-•	Farming Scale (small, medium, large)
-•	Technology Access (basic, smartphone)
-•	Geographical Region (e.g., Southwest, Southeast, North Central)
-The dashboard allows exploration of crop patterns, infrastructure needs, and access preferences, with visual summaries of spoilage rates, storage options, and willingness to pay.
+•	Farming Scale (small, medium, large)  
+•	Technology Access (basic, smartphone)  
+•	Geographical Region (e.g., Southwest, Southeast, North Central)  
+The dashboard allows exploration of crop patterns, infrastructure needs, and access preferences, with visual summaries of spoilage rates, storage options, and willingness to pay.  
 
 <img src="/image/WhatsApp Image 2025-05-30 at 10.41.11 AM (1).jpeg" alt="Dashboard" width="350"/>  
 
@@ -101,7 +101,7 @@ o	Create crop bundles (input sourcing, calendars, pest management).
 -  Support tomatoes in SE with improved inputs and training.  
 -  Promote maize in SS using drainage and water-resistant varieties.  
 -  Use agro-zoning maps to guide crop recommendations.  
-•- Encourage farmer knowledge-sharing across regions.  
+-  Encourage farmer knowledge-sharing across regions.  
 
 **9.	Localized Advisory Services**  
 o	Use agro-zoning and local data to tailor advice.  
@@ -112,20 +112,20 @@ o	Build a trusted service marketplace within the app.
 **11.	Policy Advocacy**  
 o	Lobby for rural electrification and agri-infrastructure via government and NGO partnerships.  
 ## 8. Conclusion:  
-The Iseyin-Ipapo farm settlement analysis reveals high potential for agricultural productivity hindered by infrastructural deficits, service gaps, and limited regional outreach. With focused interventions tailored by region, scale, and crop type—alongside tech-enabled services—farmers can significantly improve productivity, reduce losses, and access broader markets. These insights will serve as a foundation for impactful agri-tech solutions and rural development planning.
+The Iseyin-Ipapo farm settlement analysis reveals high potential for agricultural productivity hindered by infrastructural deficits, service gaps, and limited regional outreach. With focused interventions tailored by region, scale, and crop type—alongside tech-enabled services—farmers can significantly improve productivity, reduce losses, and access broader markets. These insights will serve as a foundation for impactful agri-tech solutions and rural development planning.  
 ## Team and Collaboration:  
 This project was a joint effort between Product Managers and Data Analysts, with clear role distribution and continuous collaboration throughout the research and analysis process.
-	•	Product Managers were responsible for:
-	•	Designing the survey questions.
-	•	Distributing the survey to target farmers via WhatsApp, X (Twitter), and in-person at markets.
-	•	Assigning analysis tasks to the data team.
-	•	Identifying potential partners (e.g., MTN, Kobo360) based on research insights.
-	•	Drafting the Product Requirements Document (PRD) using insights provided by the data team.
-	•	Data Analysts were responsible for:
-	•	Cleaning and analyzing the collected survey data.
-	•	Creating visualizations (bar charts, pie charts, pivot tables) to reveal patterns in crop spoilage, storage needs, technology access, and willingness to pay.
-	•	Extracting key insights to guide product decisions.
-	•	Designing an interactive dashboard to communicate findings clearly.
+	**•	Product Managers were responsible for:**  
+	•	Designing the survey questions.  
+	•	Distributing the survey to target farmers via WhatsApp, X (Twitter), and in-person at markets.  
+	•	Assigning analysis tasks to the data team.  
+	•	Identifying potential partners (e.g., MTN, Kobo360) based on research insights.  
+	•	Drafting the Product Requirements Document (PRD) using insights provided by the data team.  
+	**•	Data Analysts were responsible for:**  
+	•	Cleaning and analyzing the collected survey data.  
+	•	Creating visualizations (bar charts, pie charts, pivot tables) to reveal patterns in crop spoilage, storage needs, technology access, and willingness to pay.  
+	•	Extracting key insights to guide product decisions.  
+	•	Designing an interactive dashboard to communicate findings clearly.  
 
-Regular communication and feedback loops between both groups ensured that analysis aligned with business needs and that feature planning was rooted in real farmer data.
+Regular communication and feedback loops between both groups ensured that analysis aligned with business needs and that feature planning was rooted in real farmer data.  
 ## Tools used: Google sheets, Excel.
